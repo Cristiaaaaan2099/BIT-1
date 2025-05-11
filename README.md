@@ -19,7 +19,7 @@ BOOTSTRAP
 
 ---
 
-###AUTOR
+### AUTOR
 Cristian Acero
 
 # bit-1
