@@ -4,8 +4,8 @@
     --fuente-principal: 
     --tamaño-letra: 20px;
 }
-.inicial{
-    background-color: #000000;
+body{
+    background-color: var(--secondary-color);
     
     
 }
