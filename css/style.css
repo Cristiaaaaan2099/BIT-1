@@ -1,0 +1,590 @@
+:root{
+    --primary-color:#fdfcfc; 
+    --secondary-color: #000000;
+    --fuente-principal: 
+    --tamaño-letra: 20px;
+}
+.inicial{
+    background-color: #000000;
+    
+    
+}
+
+.frase{
+    color: var(--secondary-color);
+    font-size: 55px;
+    text-align: center;
+    padding: 10px;
+    font-family: var(--fuente-principal);
+    background-color: #f1f1f11a;
+    border-radius: 10px;
+    background: linear-gradient(to right,rgb(240, 235, 235),rgb(66, 185, 194)); -webkit-background-clip: text; color: transparent;
+}
+.futsoc{
+    text-decoration: none;
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+}
+.fich{
+   
+    font-family: var(--fuente-principal);
+}
+.part{
+    color: #f1f1f1;
+    font-family: var(--fuente-principal);
+    gap: 20px;
+    
+}
+.paris{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+    font-size: 30px;
+    background-color: #4644446b;
+    padding: 10px;
+    display: inline-block;
+}
+.paris1{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+    font-size: 25px;
+    background-color: #4644446b;
+    padding: 10px;
+    display: inline-block;
+}
+.liv{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+    font-size: 40px;
+    background-color: #4644446b;
+    padding: 10px;
+    display: inline-block;
+   
+}
+.liv1{
+    color:#fafafcf6;
+    font-family: var(--fuente-principal);
+    font-size: 30px;
+    background-color: #4644446b;
+    padding: 10px;
+    display: inline-block;
+}
+
+.barcelona{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+    font-size: 40px;
+    background-color: #4644446b;
+    padding: 10px;
+    display: inline-block;
+}
+.barcelona1{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+    font-size: 30x;
+    background-color: #4644446b;
+    display: inline-block;
+   
+}
+.gavi1{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+}
+.america1{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+}
+.cr7{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+}
+.ance{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+}
+.balon-oro{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+}
+.clasico{
+    color: var(--primary-color);
+    font-family: var(--fuente-principal);
+}
+.tx{
+    color: var(--primary-color);
+}
+.hj{
+    color: var(--primary-color);
+}
+.footer{
+    background-color: #191d25;
+    color: #f1f1f1;
+}
+
+/*PARTIDOS EDICION*/
+.titulo1{
+    font-size: 50px;
+    color: var(--primary-color);
+}
+.subtitulo{
+    color: var(--primary-color);
+}
+.la-liga{
+    margin-top: 90px;
+    color: var(--primary-color);
+}
+.partidos-liga{
+    display: grid;
+    grid-template-columns: auto;
+    gap: 20px;
+    
+}
+
+.barcelona2{
+    display: flex;
+    align-items: center;
+}
+.barcelona3{
+    height: auto;
+    margin-right: 10px;
+}
+.horario{
+    display: flex;
+    align-items: center;
+}
+.clasico1{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.osasuna{
+    display: flex;
+    align-items: center;
+}
+.osasuna1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario1{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.par-betis-osasuna{
+    
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.atletic{
+    display: flex;
+    align-items: center;
+}
+.altetic1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario2{
+    display: flex;
+    align-items: center;
+}
+.par-atletic-atletico{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.premier{
+    margin-top: 90px;
+    color: var(--primary-color);
+    display: grid;  
+}
+.league{
+    text-align: left;
+}
+.chelsea{
+    display: flex;
+    align-items: center;
+}
+.chelsea1{
+    height:auto;
+    margin-right: 10px;
+}
+.liverpool{
+    display: flex;
+    align-items: center;
+}
+.liverpool1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario3{
+    display: flex;
+    align-items: center;
+}
+.par-chel-liv{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.manchester-city{
+    display: flex;
+    align-items: center;
+}
+.manchester-city1{
+    height: auto;
+    margin-right: 10px;
+}
+.manchester-united{
+    display: flex;
+    align-items: center;
+}
+.manchester-united1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario4{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+.clasico-ciudadano{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.newcastle{
+    display: flex;
+    align-items: center;
+}
+.newcastle1{
+    height: auto;
+    margin-right: 10px;
+}
+.arsenal{
+    display: flex;
+    align-items: center;
+}
+.arsenal1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario5{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.par-new-ars{
+   border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+
+.serie-a{
+    margin-top: 90px;
+    color: var(--primary-color);
+    display: grid;
+    
+}
+.juventus{
+    display: flex;
+    align-items: center;
+}
+.juventus1{
+    height:auto;
+    margin-right: 10px;
+}
+.napoli{
+    display: flex;
+    align-items: center;
+}
+.napoli1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario6{
+    display: flex;
+    align-items: center;
+}
+.par-juv-nap{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.milan{
+    display: flex;
+    align-items: center;
+}
+.milan1{
+    height:auto;
+    margin-right: 10px;
+}
+.inter{
+    display: flex;
+    align-items: center;
+}
+.inter1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario7{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.par-mil-int{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.atalanta{
+    display: flex;
+    align-items: center;
+}
+.atalanta1{
+    height:auto;
+    margin-right: 10px;
+}
+.lazio{
+    display: flex;
+    align-items: center;
+}
+.lazio1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario8{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.par-atal-laz{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.liga-bet{
+    margin-top: 90px;
+    color: var(--primary-color);
+    display: grid;  
+}
+.betplay{
+text-align: left;    
+}
+.millos{
+    display: flex;
+    align-items: center;
+}
+.millos1{
+    height: auto;
+    margin-right: 10px;
+}
+.santafe{
+    display: flex;
+    align-items: center;
+}
+.santafe1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario9{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.par-mill-sant{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.america{
+    display: flex;
+    align-items: center;
+}
+.america1{
+    height: auto;
+    margin-right: 10px;
+}
+.cali{
+    display: flex;
+    align-items: center;
+}
+.cali1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario10{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.par-amr-cal{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.nacional{
+    display: flex;
+    align-items: center;
+}
+.nacional1{
+    height: auto;
+    margin-right: 10px;
+}
+.medellin{
+    display: flex;
+    align-items: center;
+}
+.medellin1{
+    height: auto;
+    margin-right: 10px;
+}
+.horario11{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.par-nac-med{
+    border: 2px solid rgb(247, 241, 241);
+    color: var(--primary-color);
+    border-radius: 10px;
+    background-color: #4e4e4e;
+}
+.footer1{
+    margin-top: 100px;
+    background-color: #191d25;
+    color: #f1f1f1;
+}
+
+/*InicioSesion*/
+.inicio-fondo{
+    background-color: #000000;
+}
+.formulario{
+    display: grid;
+    color: var(--primary-color);
+    border: 2px solid rgb(247, 241, 241);
+    border-radius: 10px;
+    padding: 5px;
+    width: 650px;
+    height: 400px;
+    margin-left: 600px;
+    margin-top: 150px;
+    background-color: #4e4e4e;
+    font-size: 25px;
+    font-family: cursive;
+
+}
+.inicio{
+    margin-top: 20px;
+    border: px;
+    border-radius: 10px;
+    color: var(--primary-color);
+    background-color: #e71b1b;
+}
+
+.aviso{
+    display: grid;
+    margin-left: 750px;
+    margin-top: 20px;
+    color: #f3ebeb;
+    font-family: cursive;
+    font-size: 25px;
+    background-color: #4e4e4e;
+    width: 400px;
+    border: px;
+    border-radius: 10px;
+}
+.footer2{
+    margin-top: 100px;
+    background-color: #191d25;
+    color: #f1f1f1;
+}
+.cop{
+    margin-left: 850px;
+}
+.cop1{
+    margin-left: 900px;
+}
+
+/*FICHAJES EDICION*/
+.mercado{
+    font-size: 55px;
+    margin-top: 20px;
+    margin-left: 340px;
+    color: var(--primary-color);
+    background-color: #191d25;
+    width: 580px;
+    height: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.linea1{
+    margin-top: 40px;
+}
+.letra1{
+    font-size: 15px;
+    color: var(--primary-color);
+    margin-top: 10px;
+}
+.letra2{
+    font-size: 15px;
+    color: var(--primary-color);
+    margin-top: 10px;
+}
+
+.letra3{
+    font-size: 15px;
+    color: var(--primary-color);
+    margin-top: 10px;
+}
+.goes{
+    margin-top: 40px;
+}
+.rodri{
+    color: var(--primary-color);
+    text-align: justify;
+}
+.linea2{
+    margin-top: 40px;
+}
+.letra4{
+    font-size: 25px;
+    color: var(--primary-color);
+    margin-top: 10px;
+}
+.letra5{
+    font-size: 25px;
+    color: var(--primary-color);
+    margin-top: 10px;
+}
+.alaba{
+    margin-top: 20px;
+}
+.letra6{
+    font-size: 32px;
+    color: var(--primary-color);
+    margin-top: 10px;
+}
+.footer3{
+     margin-top: 100px;
+    background-color: #191d25;
+    color: #f1f1f1;
+}
+
+
+
+
+
