@@ -1,25 +1,25 @@
-BIT-1 SITIO WEB DE NOTICIAS DEPORTIVAS
+###BIT-1 SITIO WEB DE NOTICIAS DEPORTIVAS
+---
 
-
-DESCRIPCIÓN
+###DESCRIPCIÓN
 FUTSOC
  Es una Pagina deportiva donde encontraras todo lo relacionado con el futbol, fichajes, resultados, partidos.
+---
 
 
-
-MATERIAL UTILIZADO
+###MATERIAL UTILIZADO
 HTML
 CSS
 JAVA SCRIPT
 BOOTSTRAP
-
-WIREFIRME
+---
+###WIREFIRME
 
 ![FIGMA](./img/figma-imagen.png)
 
+---
 
-
-AUTOR
+###AUTOR
 Cristian Acero
 
 # bit-1
