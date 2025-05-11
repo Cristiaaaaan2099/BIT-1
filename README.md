@@ -9,6 +9,7 @@ HTML
 CSS
 JAVA SCRIPT
 BOOTSTRAP
- 
+
 WIREFIRME
-![alt text](image.png)# BIT-1
+![FIGMA](./img/figma-imagen.png)
+

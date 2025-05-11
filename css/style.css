@@ -18,7 +18,7 @@
     font-family: var(--fuente-principal);
     background-color: #f1f1f11a;
     border-radius: 10px;
-    background: linear-gradient(to right,rgb(240, 235, 235),rgb(66, 185, 194)); -webkit-background-clip: text; color: transparent;
+    background: linear-gradient(to right,rgb(240, 235, 235),rgb(66, 185, 194));
 }
 .futsoc{
     text-decoration: none;
